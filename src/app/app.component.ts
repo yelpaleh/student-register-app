@@ -11,7 +11,7 @@ import { CommonModule, NgIf } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'student-register-app';
+  title = 'student-register-app-1';
   student = {
     fullName: '',
     email: '',
